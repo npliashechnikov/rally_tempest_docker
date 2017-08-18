@@ -1,4 +1,4 @@
-t.api.compute.servers.test_novnc.NoVNCConsoleTestJSON.test_novnc[id-c640fdff-8ab4-45a4-a5d8-7e6146cbd0dc]
+tempest.api.compute.servers.test_novnc.NoVNCConsoleTestJSON.test_novnc[id-c640fdff-8ab4-45a4-a5d8-7e6146cbd0dc]
 designate_tempest_plugin.tests.api.admin.test_quotas.QuotasAdminTest.test_delete_quotas[id-33e0affb-5d66-4216-881c-f101a779851a,smoke]
 designate_tempest_plugin.tests.api.admin.test_quotas.QuotasAdminTest.test_show_quotas[id-ed42f367-e5ba-40d7-a08d-366ad787d21c,smoke]
 designate_tempest_plugin.tests.api.admin.test_quotas.QuotasAdminTest.test_update_quotas[id-4f2b65b7-c4e1-489c-9047-755e42ba0985,smoke]
