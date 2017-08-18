@@ -1,4 +1,4 @@
-FROM rallyforge/rally:0.9.1
+FROM rallyforge/rally:latest
 MAINTAINER Oleksii Butenko <obutenko@mirantis.com>
 
 WORKDIR /var/lib
